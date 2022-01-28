@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: rgb(154, 189, 218);
+}
+
+.imagem-fundo {
+    width: 230px;
+    margin-left: 830px;
+}
